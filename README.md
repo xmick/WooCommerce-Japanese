@@ -1,4 +1,4 @@
 WooCommerce-Japanese
 ====================
 
-Translation and Localization for Japanese
+Translation into Japanese
